@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Act for Preventing and Suppressing of Fires within the City of London, and Liberties Thereof</title>
+            <author>City of London (England).</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49001</idno>
+            <idno type="STC">Wing L2856A</idno>
+            <idno type="STC">ESTC R39349</idno>
+            <idno type="EEBO-CITATION">18368539</idno>
+            <idno type="OCLC">ocm 18368539</idno>
+            <idno type="VID">107422</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49001)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107422)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1637:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Act for Preventing and Suppressing of Fires within the City of London, and Liberties Thereof</title>
+                  <author>City of London (England).</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Clark ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>M.DC.LXXVI. [1676]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Guildhall, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fire prevention --  England --  London.</term>
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107422:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <p>AN ACT For Preventing and Suppreſſing OF FIRES WITHIN THE City of London, AND <hi>LIBERTIES</hi> thereof.</p>
+            <figure>
+               <figDesc>blazon or coat of arms of the City of London</figDesc>
+            </figure>
+            <p>Printed by <hi>Andrew Clark,</hi> Printer to the Honourable City of LONDON. M.DC.LXXVI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Act_of_Common_Council__City_of_London">
+            <pb facs="tcp:107422:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 9 -->
+            <pb n="1" facs="tcp:107422:2"/>
+            <!-- PDF PAGE 9 -->
+            <head>
+               <figure>
+                  <figDesc>blazon or coat of arms of the City of London</figDesc>
+               </figure>
+Commune Concilium tent' in Camera <hi>Guilhald'</hi> Civitatis <date>
+                  <hi>London</hi> die <hi>Veneris,</hi> decimo quinto die <hi>Novembris,</hi> Anno Domini <hi>1667.</hi> Annóque Regni Domini noſtri <hi>CAROLI</hi> Secundi, Dei Gratia, <hi>Angliae, Scotiae, Franciae &amp; Hiberniae</hi> Regis, Fidei Defenſoris, <hi>&amp;c.</hi> decimo nono, coram</date> 
+               <hi>Willielmo Peak</hi> Milite, Majore Civitatis <hi>London, Thoma Aleyn</hi> Milite &amp; Baronetto, Aldermanno, <hi>Johanne Laurence, Thoma Bloudworth, Willielmo Bolton, Willielmo Turner, Willielmo Hooker,</hi> Militibus Aldermannis, <hi>Franciſco Aſty</hi> Ar<g ref="char:EOLhyphen"/>migero, Aldermanno, ac <hi>Dionyſio Gauden &amp; Thoma Davis</hi> Militibus, Aldermannis. &amp; Vicecomitibus ejuſ<g ref="char:EOLhyphen"/>dem Civitat', nec non majore parte Communiariorum de Communi Concilio ejuſdem Civitat' tunc &amp; ibidem aſſemblat'.</head>
+            <p>WHereas the late fierce and outragious <hi>FIRE</hi> which happened in this City (continuing violently, to the great Aſtoniſhment of all Beholders, more than the ſpace of four Days and four Nights) burnt, deſtroyed and conſumed the greateſt part of the Churches and Dwelling-houſes, rendring very many of
+<pb n="2" facs="tcp:107422:3"/>
+               <!-- PDF PAGE 10 -->the Inhabitants calamitous, and much impoveriſhed by the great Loſſes they ſuſtained, and is by all juſtly re<g ref="char:EOLhyphen"/>ſented as a moſt ſad and diſmal Judgment of Heaven: For the Prevention, Avoiding and Suppreſſing (as much as Human Prudence is capable of) the like deplorable (and ſtill too too viſible) Events, and dreadful Danger of <hi>Fire</hi> for the future, within this City, and Liberties thereof, Be it ordained, Enacted and Eſtabliſhed by the Right Honourable the Lord Mayor, the Aldermen his Brethren, and the Commons in this Common-Coun<g ref="char:EOLhyphen"/>cil aſſembled, and by the Authority of the ſame, in man<g ref="char:EOLhyphen"/>ner and form following; that is to ſay,</p>
+            <p n="1">I. That the City, and the Liberties thereof, ſhall be divided and appointed into four equal <hi>Parts</hi> or <hi>Quar<g ref="char:EOLhyphen"/>ters;</hi> and the Eaſt Part or Quarter to contain theſe <hi>Wards</hi> following, viz. <hi>Portſoken, Aldgate, Tower, Billingſ<g ref="char:EOLhyphen"/>gate, Bridg, Langborn,</hi> and <hi>Lime-ſtreet;</hi> the Weſt Part or Quarter to contain <hi>Farringdon within, Farringdon without, Caſile-Baynard, Cheapſide,</hi> and <hi>Alderſgate;</hi> the North Part or Quarter to contain <hi>Cornhil, Broadſtreet, Colemanſtreet, Baſſiſhaw, Biſhopſgate,</hi> and <hi>Cripplegate;</hi> and the South Part or Quarter to contain <hi>Queenhith, Bread-ſtreet, Vintry, Cordwainer, Dowgate, Walbrook,</hi> and <hi>Candlewick-ſtreet.</hi>
+            </p>
+            <p n="2">II. <hi>Item,</hi> That every of the ſaid Quarters ſhall be furniſhed and provided, at or before the Feaſt of the Birth of our <hi>Lord God</hi> next enſuing, of Eight Hundred <hi>Leathern Buckets,</hi> Fifty <hi>Ladders, viz.</hi> Ten Forty two Foot long, Ten Thirty Foot long, Ten Twenty Foot long, Ten Sixteen Foot long, and Ten Twelve Foot
+<pb n="3" facs="tcp:107422:3"/>
+               <!-- PDF PAGE 10 -->long; as alſo of ſo many <hi>Hand-Squirts</hi> of Braſs as will furniſh two for every Pariſh, Four and twenty <hi>Pickax-Sledges,</hi> and Forty <hi>Shod Shovels.</hi>
+            </p>
+            <p n="3">III. <hi>Item,</hi> That every one of the Twelve Compa<g ref="char:EOLhyphen"/>nies provide and keep in readineſs Thirty <hi>Buckets,</hi> One <hi>Engine,</hi> Six <hi>Pickax-Sledges,</hi> Three <hi>Ladders,</hi> and Two <hi>Hand-Squirts</hi> of Braſs.</p>
+            <p n="4">IV. <hi>Item,</hi> That all the other inferior Companies pro<g ref="char:EOLhyphen"/>vide and keep in readineſs <hi>Buckets</hi> and <hi>Engines</hi> propor<g ref="char:EOLhyphen"/>tionable to their Abilities, of which thoſe leaſt able, to provide portable <hi>Engines</hi> to carry up Stairs into any Rooms or Tops of Houſes; the number of which <hi>Buckets</hi> and <hi>Engines</hi> to be from time to time pre<g ref="char:EOLhyphen"/>ſcribed and allotted by the Lord Mayor, and Court of Aldermens Direction.</p>
+            <p n="5">V. <hi>Item,</hi> That every Alderman who hath paſſed the Office of Shrievalty, provide Four and Twenty <hi>Buckets,</hi> and One <hi>Hand-Squirt</hi> of Braſs; and all thoſe who have not been Sheriffs, Twelve <hi>Buckets</hi> and One <hi>Hand-Squirt</hi> of Braſs, to be kept in their reſpective Dwellings: and all other principal Citizens and In<g ref="char:EOLhyphen"/>habitants, and every other perſon being a Subſidy<g ref="char:EOLhyphen"/>man, or of the degree of a Subſidy-man, ſhall pro<g ref="char:EOLhyphen"/>vide and keep in their Houſes a certain number of <hi>Buckets,</hi> according to their quality.</p>
+            <p n="6">VI. <hi>Item,</hi> That the ſeveral Inhabitants and Furniture of each reſpective Quarter ſhall remain and abide with<g ref="char:EOLhyphen"/>in their own Quarters, and not go out farther; except<g ref="char:EOLhyphen"/>ing
+<pb n="4" facs="tcp:107422:4"/>
+               <!-- PDF PAGE 11 -->only ſuch ſerviceable perſons of other Quarters fit to take pains in that behalf, who may be called to yield their help as need ſhall require; and none other Perſons or Furniture, without ſpecial Order of the Lord Mayor and Sheriffs for the time being.</p>
+            <p n="7">VII. <hi>Item,</hi> It is farther Ordained by the Authority aforeſaid, That in every of the ſaid Quarters or parts of this City, by the Advice of the Aldermen and Common-Council of each ſeveral Ward within that Quarter, there ſhall be choſen, retained and appointed for each Ward one honeſt and ſufficient perſon, dwelling within the ſame, to be <hi>Bell-man</hi> there, who ſhall from hence<g ref="char:EOLhyphen"/>forth every Night, from the Feaſt of St. <hi>Michael,</hi> until the <hi>Annunciation</hi> of St. <hi>Mary,</hi> diligently walk up and down within the ſame Ward, from Ten of the Clock in the Night, till Five of the Clock next Morning. Their Wages or Salaries to be levied within their reſpective Wards, according as the ſame ſhall be aſſeſſed by the Common-Council of the ſame Ward, or the greateſt part of them.</p>
+            <p n="8">VIII. <hi>Item,</hi> That every Houſholder upon any Cry of Fire, ſhall place a ſufficient man at his Door well ar<g ref="char:EOLhyphen"/>med, and hang out a Light at his Door, if in the Night<g ref="char:EOLhyphen"/>time; upon default whereof, every party offending, ſhall forfeit Twenty ſhillings.</p>
+            <p n="9">IX. <hi>Item,</hi> That every Houſholder ſhall, during the time of any Fire, have Water in a Veſſel ready at his Door to quench and ſuppreſs all farther increaſe of the Fire.</p>
+            <pb n="5" facs="tcp:107422:4"/>
+            <!-- PDF PAGE 11 -->
+            <p n="10">X. <hi>Item,</hi> That in every of the ſaid four Quarters or Parts of this City a noted <hi>Bell</hi> be rung from <hi>Lady-day</hi> to <hi>Michaelmas</hi> at Ten of the Clock every Night, and at five of the Clock every Morning; and from <hi>Michaelmas</hi> to <hi>Lady-day</hi> at Eight of the Clock every Night, and Seven of the Clock every Morning; at which reſpective Hours the <hi>Watch</hi> ſhall punctually ſit and riſe, who as ſoon as they are met together, one out of every Watch ſhall be ſent the Rounds into every part of the Ward, and at his return another ſhall be ſent out, and ſo ſucceſſively all Night long without intermiſſion, for Prevention of Fire, Rob<g ref="char:EOLhyphen"/>bing, or other Inconvenience.</p>
+            <p n="11">XI. <hi>Item,</hi> That every Inhabitant prepare ſome ſecure place in their Dwellings (not under or near any Stair<g ref="char:EOLhyphen"/>caſe) to lay in their <hi>Sea-coal Aſhes, Embers,</hi> or any other ſort of <hi>Fire-Aſhes;</hi> and that the ſaid Aſhes be quench<g ref="char:EOLhyphen"/>ed with water every Night before they go to Bed: and that all Conſtables make inquiry of the Security of <hi>Hearths, Ovens,</hi> and <hi>Stoves,</hi> and places for laying <hi>Fire-Aſhes</hi> in, twice every year.</p>
+            <p n="12">XII. <hi>Item,</hi> That <hi>Plugs</hi> be put into the <hi>Pipes</hi> in the moſt convenient places of every Street, whereof all Inhabitants may take notice, that breaking of the Pipes in diſorderly manner may be avoided.</p>
+            <p n="13">XIII. <hi>Item,</hi> That as many <hi>Wells</hi> as can be found may be provided in every Street, with <hi>Pumps,</hi> placed con<g ref="char:EOLhyphen"/>veniently for furniſhing of Water, eſpecially in Froſty weather, when other Water may be ſcarce.</p>
+            <pb n="6" facs="tcp:107422:5"/>
+            <!-- PDF PAGE 12 -->
+            <p n="14">XIV. <hi>Item,</hi> That the Lord Mayor and Sheriffs, as alſo the Deputies and Common-Council-men of ſuch Ward where any Fire ſhall happen, have ſpeedy notice there<g ref="char:EOLhyphen"/>of by ſeveral Meſſengers to be diſpatched from the Conſtables upon the firſt Diſcovery.</p>
+            <p n="15">XV. <hi>Item,</hi> That at all ſuch times the Lord Mayor be attended with all his <hi>Officers,</hi> with the <hi>Marſhalls</hi> and all their men, as alſo the <hi>City Workmen</hi> and their <hi>Labourers,</hi> the <hi>Bridg-Maſter</hi> with the <hi>Bridg-houſe Officers</hi> and <hi>Workmen,</hi> and their <hi>Labourers,</hi> who are all upon notice of any Fire forthwith to repair to the Lord Mayor, and to obſerve ſuch directions as ſhall be given them; the Sheriffs alſo to be attended with all their <hi>Officers,</hi> upon pain to them of forfeiting Three pounds in default of ſuch their Attendance.</p>
+            <p n="16">XVI. <hi>Item,</hi> That the ſeveral Companies of <hi>Carpen<g ref="char:EOLhyphen"/>ters, Bricklayers, Plaiſterers, Painters, Maſons, Smiths, Plummers,</hi> and <hi>Paviers,</hi> do yearly for each Company elect two Maſter-Workmen, four Journey-men, eight Apprentices, and ſixteen Labourers, to be ready upon all occaſions of Fire to attend the Lord Mayor and Sheriffs for quenching the ſame.</p>
+            <p n="17">XVII. <hi>Item,</hi> That all Workmen and Labourers be<g ref="char:EOLhyphen"/>longing to any publick <hi>Water-works</hi> within the City, the <hi>Seacoal-meters, Porters, Blackwel-hall Porters, Leaden<g ref="char:EOLhyphen"/>hall Porters, Ticket-Porters,</hi> and <hi>Package-Porters,</hi> do conſtantly attend the Lord Mayor and Sheriffs in ſuch Services; and that a Liſt of all the Names of the afore-mentioned perſons, with the places of their
+<pb n="7" facs="tcp:107422:5"/>
+               <!-- PDF PAGE 12 -->Aboad, be brought yearly in a Table to the Lord Mayor elect upon the firſt day of <hi>October,</hi> to be placed in the Hall of the ſaid Lord Mayor to publick view; and that henceforth the admittances of all ſuch per<g ref="char:EOLhyphen"/>ſons may be upon the ſame Condition.</p>
+            <p n="18">XVIII. <hi>Item,</hi> That all perſons, unleſs ſuch as are imployed or allowed by the Lord Mayor or Sheriffs, Aldermen, Deputies, or Common-Council-men, do keep (during the time of any Fire) within their own Dwellings, until they are ſummoned to give their Aid; that ſo Diſorder and Confuſion in the Streets may be prevented.</p>
+            <p n="19">XIX. <hi>Item,</hi> That all the Conſtables and Watch-men of the Ward where any Fire happens, aſſemble immedi<g ref="char:EOLhyphen"/>ately at ſuch place, and there attend on the Lord Mayor and Sheriffs, and follow their Directions.</p>
+            <p n="20">XX. <hi>Item,</hi> That all <hi>Brokers</hi> on the <hi>Exchange</hi> (accord<g ref="char:EOLhyphen"/>ing to their Obligation at their Admittance) do attend, in order to take care for ſuch Goods and Houſhold<g ref="char:EOLhyphen"/>ſtuff as may be removed.</p>
+            <p n="21">XXI. <hi>Item,</hi> That yearly there be choſen ſome able Citizen and skilful <hi>Engineer,</hi> to attend the Lord Mayor and Sheriffs or any of them upon ſuch Accident, who by their Advice is to give his Aſſiſtance, and to blow up by their Directions ſuch Houſes, whereby the in<g ref="char:EOLhyphen"/>creaſe of the Fire may be moſt probably prevented; and that Labourers be appointed to attend ſuch Engi<g ref="char:EOLhyphen"/>neer.</p>
+            <pb n="8" facs="tcp:107422:6"/>
+            <!-- PDF PAGE 13 -->
+            <p n="22">XXII. <hi>Item,</hi> That the Lord Mayor, Aldermen and Sheriffs, Deputies, Common-Council-men, Engineer, and all perſons appointed and required by the Lord Mayor and Sheriffs to be aiding in ſuppreſſing and extinguiſhing the Fire, by blowing up, or pulling down Houſes, ſhall be indempnified by this Court.</p>
+            <p n="23">XXIII. <hi>Item,</hi> That all perſons whoſe Houſes ſhall be blown up, or otherwiſe demoliſhed, for the preven<g ref="char:EOLhyphen"/>tion of the increaſe of Fire, ſhall have ſuch Damages as the Common-Council ſhall award; and that all per<g ref="char:EOLhyphen"/>ſons labouring therein, ſhall be awarded, as by Order of the Court of Aldermen ſhall be appointed; and that a Rate be laid by the Common-Council on the remain<g ref="char:EOLhyphen"/>ing Houſes of the City and Liberties for ſatisfying thereof.</p>
+            <p n="24">XXIV. <hi>Item,</hi> That once a Quarter the Deputy and Common-Council of every Ward return Certificates to the Lord Mayor and Court of Aldermen, of the Numbers and Condition of their <hi>Buckets, Engines, Ladders,</hi> and all other Neceſſaries of that nature, and the Engineer to examine the ſame, that on all occa<g ref="char:EOLhyphen"/>ſions they may be found in readineſs; and that the Certificates of <hi>Michaelmas</hi> Quarter be returned as well to the Lord Mayor elect, as to the Lord Mayor.</p>
+            <p n="25">XXV. <hi>Item,</hi> That ſuch quantities of <hi>Powder</hi> as ſhall be thought fit by the Lord Mayor and Court of Alder<g ref="char:EOLhyphen"/>men, ſhall be provided by the ſeveral Wards, and the ſeveral Companies of this City reſpectively, and laid up in ſuch convenient places as the ſaid Lord Mayor and
+<pb n="9" facs="tcp:107422:6"/>
+               <!-- PDF PAGE 13 -->Court of Aldermen ſhall from time to time direct and appoint; and that the principal Engineer make trial of all ſuch <hi>Powder,</hi> that being ſatisfied of the ſtrength and goodneſs thereof, he may the better uſe it accord<g ref="char:EOLhyphen"/>ingly.</p>
+            <p n="26">XXVI. <hi>Item,</hi> That no perſon whatſoever he hence<g ref="char:EOLhyphen"/>forth permitted at any time to make, or cauſe to be made any ſort of <hi>Fire-works,</hi> or to fire, or cauſe to be fired any ſuch <hi>Fire-works,</hi> within the City or Liberties thereof, except ſuch perſons only as ſhall be thereunto appointed by His MAJESTY, or any lawful Au<g ref="char:EOLhyphen"/>thority under him.</p>
+            <p n="27">XXVII. <hi>Item,</hi> That no <hi>Gun-powder</hi> be kept within the Walls of the City (except, as aforeſaid) but in ſuch ſecure places as ſhall be allowed and approved by the Court of Aldermen.</p>
+            <p n="28">XXVIII. <hi>Laſtly,</hi> That no perſon lay <hi>Hemp, Flax, Wax, Gun-powder, Pitch, Tarr, Brimſtone, Roſin,</hi> or the like combuſtible Commodities, in any Cellar, Ware<g ref="char:EOLhyphen"/>houſe, or other place on that ſide next the Street, which by the ſhaking of Links, Torches, or caſting in of other Fire at the Windows next the Street, may be in danger of ſuch Fire.</p>
+            <p>And it is farther Enacted and Ordained by the Au<g ref="char:EOLhyphen"/>thority aforeſaid, That all and ſingular the Peins, Penal<g ref="char:EOLhyphen"/>ties and Forfeitures, which ſhall be forfeited or incurred by virtue of this Act, ſhall be obtained, levied and re<g ref="char:EOLhyphen"/>covered, either by Action of Debt, Bill, Plaint, or In<g ref="char:EOLhyphen"/>formation,
+<pb n="10" facs="tcp:107422:7"/>
+               <!-- PDF PAGE 14 -->in the name of the Chamberlain of the ſaid City for the time being, in the KINGS MAJESTY's Court holden in the Chamber of the <hi>Guild-hall</hi> of the ſaid City, before the Lord Mayor and Aldermen of the ſaid City for the time being; it which no Eſloign, Pro<g ref="char:EOLhyphen"/>tection, or Wager of Law ſhall be admitted or allowed for the Defendant: and the Chamberlain of the ſaid City for the time being, in all Suits to be proſecuted by virtue of this Act againſt any Offender or Offenders, ſhall recover the ordinary Coſts of Suit, to be ex<g ref="char:EOLhyphen"/>pended in or about the proſecution of them, or any of them: And that all ſuch Peins, Penalties and Forfei<g ref="char:EOLhyphen"/>tures (the Charges of Suit for Recovery thereof be<g ref="char:EOLhyphen"/>ing firſt deducted) ſhall be divided into two equal Parts, one Moiety whereof to be paid unto the Trea<g ref="char:EOLhyphen"/>ſurer of <hi>Chriſt</hi>'s <hi>Hoſpital</hi> (for the time being) to be imployed toward the Maintenance of the poor Chil<g ref="char:EOLhyphen"/>dren harboured and kept in the ſaid Hoſpital; and the other Moiety to him or them that will ſue for the ſame, any other Act or Ordinance to the contrary thereof notwithſtanding.</p>
+            <closer>
+               <signed>AVERY.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>Andrew Clark,</hi> Printer to the Honourable City of LONDON. M.DC.LXXVI.</p>
+            <pb facs="tcp:107422:7"/>
+            <!-- PDF PAGE 14 -->
+         </div>
+      </back>
+   </text>
+</TEI>
